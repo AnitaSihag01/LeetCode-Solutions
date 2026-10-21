@@ -11,11 +11,6 @@ This repository contains my solutions to LeetCode problems, implemented primaril
 - Sorting and Searching
 - Recursion and Backtracking
 - Binary Search
-- Stack and Queue
-- Linked Lists
-- Trees and Graphs
-- Sliding Window
-- Bit Manipulation
 
 ## Languages
 
